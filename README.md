@@ -1,6 +1,6 @@
 # cookie clicker 
 
-C'est un mini ou le but c'est de faire le plus de click sur le cookie dans un temps imparti. Il y à 2 mode facile ou difficile dans le mode difficile le cookie bouge de case. Et à la fin on peut choisir son score.
+C'est un mini jeu ou le but c'est de faire le plus de click sur le cookie dans un temps imparti. Il y à 2 mode facile ou difficile dans le mode difficile le cookie bouge de case. Et à la fin on peut choisir son score.
 
 ## demo 
 
